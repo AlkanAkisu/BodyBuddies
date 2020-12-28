@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8364853152818796776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 880476192056687000}
+  - component: {fileID: 1351385489}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &880476192056687000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8364853152818796776}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.9168276, y: -2.9773328, z: -2.440795}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1351385489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8364853152818796776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c4c2c6fd73449f2b171f4c7f1bd0f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - clip: {fileID: 8300000, guid: 970a13ccef1fb42a787b17cf6d07621e, type: 3}
+    name: Electric
+    volume: 0.03
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 594938ba03fbe4dd7838260cb18e88f5, type: 3}
+    name: Theme
+    volume: 0.14
+    loop: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: b1249d124a3ed4579bc7eca4cd5a751d, type: 3}
+    name: Land
+    volume: 0.143
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: b4ab68aa612524070b053e6b0cc1909e, type: 3}
+    name: Jump
+    volume: 0.143
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: b518473eb0e9945ca9e88f7d5d04d7db, type: 3}
+    name: Type
+    volume: 0.317
+    loop: 0
+    source: {fileID: 0}
