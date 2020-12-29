@@ -4,7 +4,7 @@
 <img src="images/title_screen.png" width="540" height="300"/>
 <p>We made BodyBuddies for <a href="https://www.ieeehacettepe.org/puragamejam?ref=hackathonturkiye.com">Pura Game Jam</a> event. </p> 
 <p>In this game we want to use death as a game mechanic. To complete level you should die intentionally and use your player's body to overcome the obstacles.</p>
-
+<p>For playable exe file: <a href="https://alkanakisu.itch.io/bodybuddies">itch.io page</a></p> 
 
 ## 👨‍💻👨‍🎨Who made this?
 <!-- Alkan -->
