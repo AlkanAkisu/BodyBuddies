@@ -1,4 +1,4 @@
-# Pura-Game-Jam
+# BodyBuddies
 
 ## 🎮 What is BodyBuddies?
 <img src="images/title_screen.png" width="540" height="300"/>
