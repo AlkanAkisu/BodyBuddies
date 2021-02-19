@@ -16,7 +16,7 @@
 
 <!-- Erman -->
 <a href="https://github.com/JellyCube3D">
-<img src="https://instagram.fbtz1-5.fna.fbcdn.net/v/t51.2885-19/s320x320/122999599_846699136100516_8263552352318794373_n.jpg?_nc_ht=instagram.fbtz1-5.fna.fbcdn.net&amp;_nc_ohc=Civ6F50pqOIAX9boopk&amp;tp=1&amp;oh=170e1ebec8a9f3396a65e7c7ef0174a4&amp;oe=60117CFD"width="200" height="200"/>
+<img src="https://instagram.fadb5-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/123022322_1027698741093011_2440305127498312700_n.jpg?_nc_ht=instagram.fadb5-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=aZblr_Or0aMAX_QJPDY&tp=1&oh=40d9258cf1b34e5c7ac9a272dc7c6358&oe=605ACB41"width="200" height="200"/>
 <a>
 <p>🎨 Visual Arts and Audio: </p>
 <a href="https://github.com/JellyCube3D"><p>Erman Arslan </p><a>
